@@ -7,6 +7,12 @@ GolangとServerlessフレームワークを使ったチュートリアルを行�
 * go(v1.16.4)
 	* `aws-go-mod`使用
 
+# プロジェクト作成
+
+```
+serverless create -t aws-go-mod
+```
+
 # 参考
 https://www.serverless.com/blog/framework-example-golang-lambda-support/
 
